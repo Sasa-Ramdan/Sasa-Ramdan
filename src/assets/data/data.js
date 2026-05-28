@@ -78,10 +78,7 @@ export const data = {
             name: 'Muhammad Ramdan',
             icon: './src/assets/images/bca.png',
             rekening: '2452670560'
-        },
-        {
-
-        },
+        }
     ],
 
     audio: './src/assets/audio/wedding.mp3',
