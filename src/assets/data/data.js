@@ -77,7 +77,7 @@ export const data = {
             id: 1,
             name: 'Muhammad Ramdan',
             icon: './src/assets/images/bca.png',
-            rekening: '12345678'
+            rekening: '2452670560'
         },
         {
             id: 2,
