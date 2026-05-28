@@ -35,6 +35,7 @@ export const wishas = () => {
             button.addEventListener('click', async (e) => {
                 const rekening = e.target.dataset.rekening;
                 try {
+                    console.log(rekening);
                     await navigator.clipboard.writeText(rekening);
                     button.textContent = 'Berhasil menyalin';
                 } catch (error) {
