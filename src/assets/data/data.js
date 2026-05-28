@@ -80,10 +80,7 @@ export const data = {
             rekening: '2452670560'
         },
         {
-            id: 2,
-            name: 'Muhammad Ramdan',
-            icon: './src/assets/images/bri.png',
-            rekening: '12345678'
+
         },
     ],
 
